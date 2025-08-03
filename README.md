@@ -1,5 +1,6 @@
 # 💫 About Me:
-# 👋 Hi, I’m @Mhmwood<br><br>- 👀 I’m interested in web development, especially front-end technologies and building user-friendly interfaces.<br>- 🌱 I’m currently learning advanced TypeScript, React, and other front-end tools.<br>- 💞️ I’m looking to collaborate on exciting web development projects.<br>- 📫 How to reach me:  <br>  You can contact me via [LinkedIn](www.linkedin.com/in/mhmwood-saad-927956352) or email me at [mhmwoodw@gmail.com].<br><br>
+# 👋 Hi, I’m @Mhmwood<br><br>- 👀 I’m software engineer tech stack JS/TS , Next js, Prisma Orm , supabase, or MRAN .
+0<br>- 📫 How to reach me:  <br>  You can contact me via [LinkedIn](www.linkedin.com/in/mhmwood-saad-927956352) or email me at [mhmwoodw@gmail.com].<br><br>
 
 
 ## 🌐 Socials:
